@@ -8,9 +8,9 @@ Este repositório contém dois programas em Python que implementam o clássico j
 
 1. **jokenpo_simples.py**:
    - Este arquivo implementa o jogo Jokenpô com três modalidades diferentes:
-     - **👤 vs 👤 Modo humano x humano**: Dois jogadores humanos jogam entre si.
-     - **👤 vs 🤖 Modo humano x computador**: Um jogador humano enfrenta o computador.
-     - **🤖 vs 🤖 Modo computador x computador**: Dois computadores jogam entre si.
+     - **👤 vs 👤 Modo humano x humano**
+     - **👤 vs 🤖 Modo humano x computador**
+     - **🤖 vs 🤖 Modo computador x computador**
    - O código utiliza estruturas básicas como loops `while`, declarações condicionais `if` e funções para verificar os vencedores de cada rodada.
   
 2. **jokenpo_com_matriz.py**:
